@@ -26,4 +26,4 @@ jobs:
           projectName: bynumcivicclub-org
           directory: .          # repo root — index.html is served directly
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          # branch: main        # uncomment to pin production branch explicitly
+          branch: main
