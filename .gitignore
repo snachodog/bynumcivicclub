@@ -1,0 +1,10 @@
+# AI assistant files
+.claude/
+CLAUDE.md
+.aider*
+.cursorrules
+.cursorignore
+.copilot/
+.windsurf/
+.windsurfrules
+.continue/
