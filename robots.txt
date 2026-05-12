@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bynumcivicclub.org/sitemap.xml
+
+# AI crawlers — see llms.txt for structured context
+# https://bynumcivicclub.org/llms.txt
